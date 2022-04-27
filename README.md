@@ -8,4 +8,4 @@ Momentum Dashboard Clone Chrome Extension <br>
 
 Users can view the price of Bitcoin along with it's 24-hour high and low price, the user's local weather and time, and view an image from Unsplash (photographer credit is shown as well).
 
-[Live Demo](https://lively-fairy-6005d0.netlify.app/)
+[Live Demo](https://dashboard-maya.netlify.app/)
